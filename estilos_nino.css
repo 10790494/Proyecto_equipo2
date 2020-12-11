@@ -1,7 +1,21 @@
-td{
+td, th{ 
 	text-align: center;
 }
 p.one{
 	text-decoration: black;
-	font: 
+	font-family: Arial;
 }
+table {
+  border:0;
+  border-spacing:0px;
+}
+img {
+  opacity: 0.5;
+}
+img:hover {
+  opacity: 1.0;
+}
+img.normal {
+  opacity: 1.0;
+}
+
