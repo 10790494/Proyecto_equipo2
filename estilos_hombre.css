@@ -1,1 +1,29 @@
+table {
+  border:0;
+  border-spacing:0px;
+}
 
+img {
+  opacity: 0.5;
+}
+
+img:hover {
+  opacity: 1.0;
+}
+
+td, th{ 
+	text-align: center;
+}
+
+body, html {
+    background-color: #fff;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+body, html {
+    width: 100%;
+}
