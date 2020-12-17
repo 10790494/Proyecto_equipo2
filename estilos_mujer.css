@@ -51,6 +51,9 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+td{
+text-align:center;
+}
 
 img {
   opacity: 0.5;
