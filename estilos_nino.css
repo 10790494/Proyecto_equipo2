@@ -10,7 +10,7 @@ table {
   border-spacing:0px;
 }
 img {
-  opacity: 1.0;
+  opacity: 1;
 }
 img:hover {
   opacity: 0.5;
