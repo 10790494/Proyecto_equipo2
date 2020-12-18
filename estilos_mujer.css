@@ -56,13 +56,13 @@ text-align:center;
 }
 
 img {
-  opacity: 0.5;
-  margin: 3px;
+  opacity:1;
+  
 }
 
 img:hover {
-  opacity:1;
-display:block
+  opacity:0.5;
+
 }
 
 p {
