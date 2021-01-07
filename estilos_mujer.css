@@ -50,13 +50,17 @@ li.dropdown {
 
 .dropdown:hover .dropdown-content {
   display: block;
-}
+
+
+
+
 td{
 text-align:center;
 }
 
+
 img {
-  opacity:1;
+  opacity: 1;
   
 }
 
@@ -67,3 +71,4 @@ img:hover {
 
 p {
   text-indent: 50px;
+}
