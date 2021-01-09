@@ -73,10 +73,5 @@ p {
 body, html {
     width: 100%;
 }
-body, html {
-    background-color: #fff;
-}
-body {
-    margin: 0;
-    padding: 0;
-}
+
+
