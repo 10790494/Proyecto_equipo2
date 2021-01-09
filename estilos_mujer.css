@@ -52,8 +52,8 @@ li.dropdown {
   display: block;
 }
 
-td{
-text-align:center;
+td, th{ 
+	text-align: center;
 }
 
 
