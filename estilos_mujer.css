@@ -52,9 +52,6 @@ li.dropdown {
   display: block;
 }
 
-
-
-
 td{
 text-align:center;
 }
@@ -73,3 +70,5 @@ img:hover {
 p {
   text-indent: 50px;
 }
+body, html {
+    width: 100%;
