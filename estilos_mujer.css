@@ -72,3 +72,6 @@ p {
 }
 body, html {
     width: 100%;
+}
+body, html {
+    background-color: #fff;
